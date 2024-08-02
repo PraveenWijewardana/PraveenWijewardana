@@ -16,7 +16,7 @@
 ### 🐱My Github stats:
 
 
-| ![Praveen's github stats](https://github-readme-stats.vercel.app/api?username=PraveenWijewardana&show_icons=true&theme=tokyonight) 
+ ![Praveen's github stats](https://github-readme-stats.vercel.app/api?username=PraveenWijewardana&show_icons=true&theme=tokyonight) 
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenWijewardana&theme=tokyonight) 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenWijewardana&theme=tokyonight) 
 
