@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Praveen</h1>
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AnushkaWijegoonawardana97.repoName)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=PraveenWijewardana.repoName)
 <h3 align="center">A passionate frontend & backend developer from Sri Lanka</h3>
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
