@@ -2,6 +2,9 @@
 
 <h3 align="center">A professional frontend & backend developer from Sri Lanka</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenwijewardana&label=Profile%20views&color=0e75b6&style=flat" alt="praveenwijewardana" /> </p>
+
+
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <h3 align="left">Connect with me:</h3>
