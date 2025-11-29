@@ -9,7 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/praveen_wijewardana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="praveen_wijewardana" height="30" width="40" /></a>
+<a href="https://discord.gg/praveen_wijewardana" target="blank"><img align="center" src="<img width="360" height="360" alt="image" src="https://github.com/user-attachments/assets/e863dee7-f6e8-4c42-ba47-1adf60c851db" />
+" alt="praveen_wijewardana" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
