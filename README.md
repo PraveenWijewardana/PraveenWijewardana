@@ -29,10 +29,21 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=praveenwijewardana&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=praveenwijewardana&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+  
 </p>
 
 ---
-<img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto">
+### Tech Stack
+```json
+{
+  "language": ["javascript", "c#", "java"],
+  "frontend": ["css"],
+  "backend": [],
+  "testing": []
+  "database": ["mysql", "mongodb"],
+  "devOps": [],
+}
+```
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Connect with me -->
