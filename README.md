@@ -13,7 +13,7 @@
 
 - ☁️ I've interest in developing software. So,I'm learning **JAVA**
 
-- 📝 I regularly write articles on linkden [Hashnode]([Praveen Wijewardana/](https://www.linkedin.com/in/praveen-wijewardana))
+- 📝 I regularly write articles on linkden ([Praveen Wijewardana/](https://www.linkedin.com/in/praveen-wijewardana))
 
 - 📫 Feel free to reach me out **praveenwijewardana1@gmail.com**
 
