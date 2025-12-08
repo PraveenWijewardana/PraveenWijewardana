@@ -17,7 +17,7 @@
 
 - 📫 Feel free to reach me out **praveenwijewardana1@gmail.com**
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/prave__en) my username!
+- 🏠 Don't hesitate to drop me a **👋** on Discord –  [PRAVEEN_Max](https://discordapp.com/users/prave__en) my username!
 <!--Intro end-->
 
 
