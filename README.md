@@ -63,9 +63,4 @@
 <img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" width="600px">
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=praveenwijewardana&theme=tokyonight" alt="mystreak"/>
-
-
-<img src="https://github-profile-trophy.vercel.app/?username=praveenwijewardana&column=8&margin-w=15&margin-h=15" alt="praveen">
-
 
