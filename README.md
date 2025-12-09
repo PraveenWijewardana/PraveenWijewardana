@@ -36,7 +36,7 @@
 ### Tech Stack
 ```json
 {
-  "language": ["javascript", "c#", "java"],
+  "language": ["javascript", "c#", "java","PHP"],
   "frontend": ["css"],
   "backend": [],
   "testing": []
