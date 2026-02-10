@@ -38,7 +38,7 @@
 {
   "language": ["javascript", "c#", "java","PHP"],
   "Framework":["SpringBoot"],
-  "frontend": ["css"],
+  "frontend": ["css","Angular"],
   "backend": [],
   "database": ["mysql", "mongodb"],
   "devOps": []
