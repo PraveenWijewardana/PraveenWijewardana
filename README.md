@@ -40,7 +40,7 @@
   "Framework":["SpringBoot"],
   "frontend": ["css","Angular"],
   "backend": [],
-  "database": ["mysql", "mongodb"],
+  "database": ["mysql", "mongodb","Postgres"],
   "devOps": []
 }
 ```
