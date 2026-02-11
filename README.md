@@ -32,6 +32,8 @@
   
 </p>
 
+<img src="https://camo.githubusercontent.com/15de1c7fe091c593ff682d19a9aafb6900c428076a6e20e7b302626171d76945/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d2f3f757365723d64656e657468536170757468616e74687269267468656d653d7261646963616c26686964655f626f726465723d74727565" alt="GitHub Streak" height="180" data-canonical-src="https://streak-stats.demolab.com/?user=PraveenWijewardana&amp;theme=radical&amp;hide_border=true" style="max-width: 100%; height: auto; max-height: 180px;">
+
 ---
 ### Tech Stack
 ```json
