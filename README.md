@@ -29,10 +29,11 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=praveenwijewardana&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=praveenwijewardana&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-  
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=PraveenWijewardana&theme=algolia&hide_border=true" alt="GitHub Streak" height="180">
 </p>
 
-<img src="https://camo.githubusercontent.com/15de1c7fe091c593ff682d19a9aafb6900c428076a6e20e7b302626171d76945/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d2f3f757365723d64656e657468536170757468616e74687269267468656d653d7261646963616c26686964655f626f726465723d74727565" alt="GitHub Streak" height="180" data-canonical-src="https://streak-stats.demolab.com/?user=PraveenWijewardana&amp;theme=radical&amp;hide_border=true" style="max-width: 100%; height: auto; max-height: 180px;">
+
 
 ---
 ### Tech Stack
@@ -49,10 +50,10 @@
 
 <img src="https://camo.githubusercontent.com/172bed854f4b6aa92799fd86e461f835418ba502b743c4433c161b3969bf64a7/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d7368616e756b612d7570656e64726126637573746f6d5f7469746c653d436f6e747269627574696f6e25323047726170682662675f636f6c6f723d30443131313726636f6c6f723d303044394646266c696e653d30304439464626706f696e743d46464646464626617265615f636f6c6f723d30304439464626617265613d7472756526686964655f626f726465723d74727565267468656d653d6769746875622d6461726b" width="100%" alt="Contribution Graph" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?PraveenWijewardana&amp;custom_title=Contribution%20Graph&amp;bg_color=0D1117&amp;color=00D9FF&amp;line=00D9FF&amp;point=FFFFFF&amp;area_color=00D9FF&amp;area=true&amp;hide_border=true&amp;theme=github-dark" style="max-width: 100%;">
 
-
+<p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Connect with me -->
+</p>
+  <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
